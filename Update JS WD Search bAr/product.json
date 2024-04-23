@@ -1,0 +1,50 @@
+[
+    {
+        "image": "products/wal11.webp",
+        "title": "Headphones",
+        "description": "Razer BlackShark V2 X Gaming Headset: 7.1 Surround Sound - 50mm Drivers - Memory Foam Cushion - For PC, PS4, PS5, Switch - 3.5mm Audio Jack - Black",
+        "price": "40.99"
+    },
+    {
+        "image": "products/air.jpg",
+        "title": "Airpods",
+        "description": "JBL Tune Flex - True Wireless Noise Cancelling Earbuds (Black), Small",
+        "price": "20"
+    },
+    {
+        "image": "products/key.jpg",
+        "title": "Keyboard",
+        "description": "Logitech G PRO Mechanical Gaming Keyboard, Ultra Portable Tenkeyless Design, Detachable Micro USB Cable, 16.8 Million Color LIGHTSYNC RGB Backlit Keys",
+        "price": "290.60"
+    },
+    {
+        "image": "products/images.jpeg",
+        "title": "Mouse",
+        "description": "ASUS ROG Harpe 54g Ultra-Lightweight 36,000 DPI Wireless Gaming Mouse with 5 Programmable Buttons",
+        "price": "59.99"
+    },
+    {
+        "image": "products/joy.jpg",
+        "title": "Controller",
+        "description": "Wireless Controller for PS4, Wired P-4 Pro Controller with Paddles, White P-4 Controller Accessories, P-4 Accessories Perfect Adaptive Full Version 4/4 Pro/Slim.",
+        "price": "44.99"
+    },
+    {
+        "image": "products/play.webp",
+        "title": "PlayStation",
+        "description": "Sony Playstation PS4 1TB Black Console",
+        "price": "122.22"
+    },
+    {
+        "image": "products/game.png",
+        "title": "Gaming Chair",
+        "description": "BestOffice High-Back Gaming Chair PC Office Chair Computer Racing Chair PU Desk Task Chair Ergonomic Executive Swivel Rolling Chair with Lumbar Support for Back Pain Women, Men,White",
+        "price": "89.99"
+    },
+    {
+        "image": "products/table.jpg",
+        "title": "Gaming Desk",
+        "description": "Mr IRONSTONE LD01 Desk, 50.8, Black",
+        "price": "169.99"
+    }
+]
